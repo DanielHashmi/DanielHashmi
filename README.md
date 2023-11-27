@@ -1,11 +1,11 @@
-Hi there! I'm Daniel Hashmi, a passionate beginner diving into the exciting world of web development!
+<i>Hello, fellow coders! I'm <b>Daniel Hashmi</b>, a web developer on a mission to learn and teach every beginner my xperiences.</i>
 
-Exploring the realms of HTML, CSS, and JavaScript, with a thirst for knowledge and a love for building things that make an impact.
+<i>With a thirst for knowledge and a love for teaching and building things that make an impact.</i>
 
-Currently learning the ropes and embracing the challenges that coding brings. Join me on this coding adventure, and let's learn and grow together!
+<i>Join me on this coding adventure, and <b>let's learn and grow together!</b></i>
 
-Always open to collaboration and eager to connect with fellow developers. Let's build cool stuff and make the web a more awesome place!
+<i>Always open to collaboration and connecting with the fellow developers. Let's build cool stuff and make the web a more awesome place!</i>
 
-Reach out if you have tips, advice, or just want to chat about coding and tech. I believe in the power of community and shared learning!
+<i>Reach out if you have tips, advice, or just want to chat about coding and tech. I believe in the power of community and shared learning!</i>
 
-Happy coding!
+<b>Happy coding!</b>
