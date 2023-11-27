@@ -1,4 +1,4 @@
-<i>Hello, fellow coders! I'm <b>Daniel Hashmi</b>, a web developer on a mission to learn and teach every beginner my xperiences.</i>
+<i>Hello, fellow coders! I'm <b>Daniel Hashmi</b>, a web developer on a mission to learn and teach every beginner my experiences.</i>
 
 <i>With a thirst for knowledge and a love for teaching and building things that make an impact.</i>
 
