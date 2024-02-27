@@ -20,7 +20,7 @@
 **<b>Happy coding!</b>**
 
 - 📫 How to reach me **danielhashmiportfolios@gmail.com**
-- Let's take a look at my Portfolio https://danielhashmiportfolios.freewebhostmost.com/
+- Let's take a look at my <b>Portfolio</b> **https://danielhashmiportfolios.freewebhostmost.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
