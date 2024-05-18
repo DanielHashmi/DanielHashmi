@@ -1,6 +1,6 @@
 [![MasterHead](https://danielhashmi.github.io/DanielHashmi/c.gif)](https://github.com/DanielHashmi)
 
-<h1 align="center">Hi 👋, I'm Daniel Hashmi</h1>
+<h1 align="center">Hi 👋, I'm Daniel Hashmi a Full Stack Developer</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -8,16 +8,29 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web 3.0 FrameWorks & BackEnd**
+- 🌱 I’m currently improving my **Advance Full Stack Skill's**
 
-- 💬 Ask me about **HTML, CSS, & JS**
-- About Me<br>
-**<i>Hello, fellow coders! I'm <b>Daniel Hashmi</b>, a web developer on a mission to learn and teach every beginner my experiences.</i>**
-**<i>With a thirst for knowledge and a love for teaching and building things that make an impact.</i>**
-**<i>Join me on this coding adventure, and <b>let's learn and grow together!</b></i>**
-**<i>Always open to collaboration and connecting with the fellow developers. Let's build cool stuff and make the web a more awesome place!</i>**
-**<i>Reach out if you have tips, advice, or just want to chat about coding and tech. I believe in the power of community and shared learning!</i>**
-**<b>Happy coding!</b>**
+💬 **Ask me about Full Stack Development**
+
+### About Me
+
+Hello, fellow coders! I'm **Daniel Hashmi**, a full stack developer continuously exploring the ever-evolving tech landscape. My mission is to learn and share my experiences with beginners and seasoned developers alike.
+
+With a passion for knowledge and a love for teaching, I strive to create impactful projects. Join me on this coding journey , and make coding easy for everyone!
+
+I am always open to collaboration and connecting with fellow developers. Together, we can build innovative solutions and enhance the web. Feel free to reach out for tips, advice, or discussions about coding and technology. I believe in the power of community and shared learning.
+
+**Learn & Teach Together!**
+
+# Favorite Tech Stack
+
+**TAILWINDCSS**
+**NEXTJS**
+**MONGODB**
+**FIGMA**
+**VSCODE**
+**REDUX**
+
 
 - 📫 How to reach me **danielhashmiportfolios@gmail.com**
 - Let's take a look at my <b>Portfolio</b> **https://danielhashmiportfolios.freewebhostmost.com/**
