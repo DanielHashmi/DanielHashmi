@@ -22,14 +22,9 @@ I am always open to collaboration and connecting with fellow developers. Togethe
 
 **Learn & Teach Together!**
 
-# Favorite Tech Stack
+### Favorite Tech Stack
 
-**TAILWINDCSS**
-**NEXTJS**
-**MONGODB**
-**FIGMA**
-**VSCODE**
-**REDUX**
+**TAILWINDCSS**, **NEXTJS**, **MONGODB**, **FIGMA**, **VSCODE**, **REDUX**
 
 
 - 📫 How to reach me **danielhashmiportfolios@gmail.com**
