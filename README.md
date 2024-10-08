@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my website [DanielCodeForge](https://danielcodeforge.vercel.app/)
 
-- 👨‍💻 Let's take a look at my Portfolio [https://danielhashmiportfolios.freewebhostmost.com](https://danielhashmiportfolios.freewebhostmost.com)
+- 👨‍💻 Let's take a look at my Portfolio [https://daniel-hashmi-port-folios-org.vercel.app/](https://daniel-hashmi-port-folios-org.vercel.app/)
 
 - 💬 Ask me about **TailwindCSS, NextJS, NodeJS, MongoDB, NextAuth, Git,**
 
