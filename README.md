@@ -1,6 +1,6 @@
 [![MasterHead](https://danielhashmi.github.io/DanielHashmi/c.gif)](https://github.com/DanielHashmi)
 
-<h1 align="center">Hi 👋, I'm Daniel Hashmi a Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Daniel Hashmi a Full Stack Developer & Programmer</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -12,17 +12,17 @@
 
 - 👨‍💻 Let's take a look at my Portfolio [https://daniel-hashmi-port-folios-org.vercel.app/](https://daniel-hashmi-port-folios-org.vercel.app/)
 
-- 💬 Ask me about **TailwindCSS, NextJS, NodeJS, MongoDB, NextAuth, Git,**
+- 💬 Ask me about **TailwindCSS, NextJS, NodeJS, MongoDB, NextAuth, Git, Python, C/C++**
 
 - 📫 How to reach me **danielhashmiportfolios@gmail.com**
 
-- 📄 Check Out My Resume [https://drive.google.com/file/d/1tKDSqzgqAkX5gA1QBrayX-aeOwvZaiCu/view?usp=sharing](https://drive.google.com/file/d/1tKDSqzgqAkX5gA1QBrayX-aeOwvZaiCu/view?usp=sharing)
+- 📄 Check Out My Resume [https://drive.google.com/file/d/1tKDSqzgqAkX5gA1QBrayX-aeOwvZaiCu/view?usp=sharing](https://drive.google.com/file/d/1WUvsTNflYmmq8M2XgWCQWUX7K8ji-3Fk/view?usp=sharing)
 
 ### About Me
 
-Hello, fellow coders! I'm **Daniel Hashmi**, a full stack developer continuously exploring the ever-evolving tech landscape. My mission is to learn and share my experiences with beginners and seasoned developers alike.
+Hello, fellow coders! I'm **Daniel Hashmi**, a full stack developer and programmer continuously exploring the ever-evolving tech landscape. My mission is to learn and share my experiences with beginners and seasoned developers alike.
 
-With a passion for knowledge and a love for teaching, I strive to create impactful projects. Join me on this coding journey , and make coding easy for everyone!
+With a passion for knowledge and a love for teaching, I strive to create impactful resource and make coding easy for everyone!
 
 I am always open to collaboration and connecting with fellow developers. Together, we can build innovative solutions and enhance the web. Feel free to reach out for tips, advice, or discussions about coding and technology. I believe in the power of community and shared learning.
 
