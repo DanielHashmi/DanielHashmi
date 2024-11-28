@@ -1,4 +1,4 @@
-[![MasterHead](https://github-banner1-github-io.vercel.app/github%20banner.png)](https://github-banner1-github-io.vercel.app/github%20banner.png)
+<img align="right" alt="Coding" width="400" src="https://github-banner1-github-io.vercel.app/github%20banner.png">
 
 <h1 align="center">Hi 👋, I'm Daniel Hashmi a Full Stack Developer & Programmer</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
