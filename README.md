@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Welcome Banner](https://github.com/DanielHashmi/DanielHashmi/blob/main/Banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Daniel Hashmi a Full Stack Developer & Programmer</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
