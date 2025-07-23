@@ -19,7 +19,7 @@ Love 💖 to work on innovations 🪢 and deep unique ideas
 
 Thinking to transform the world 😂
 
-> Peace was never an option LoL 🤷‍♂️
+> Peace was never an option 🤷‍♂️
 
 🛠️ **Weapons**
 
@@ -45,5 +45,5 @@ Thinking to transform the world 😂
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danielhashmi&theme=dark&hide_border=true&background=1e1e1e&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </p>
 
-[![Twitter: @_DanielHashmi_](https://img.shields.io/badge/Twitter-@DanielHashmi-1e1e1e?style=flat&logo=twitter&logoColor=ffffff)](https://x.com/_DanielHashmi_)
-[![LinkedIn: Daniel Hashmi](https://img.shields.io/badge/LinkedIn-Daniel%20Hashmi-1e1e1e?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniel-hashmi/)
+[![Twitter: @_DanielHashmi_](https://img.shields.io/badge/Twitter--1e1e1e?style=flat&logo=twitter&logoColor=ffffff)](https://x.com/_DanielHashmi_)
+[![LinkedIn: Daniel Hashmi](https://img.shields.io/badge/LinkedIn--1e1e1e?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniel-hashmi/)
