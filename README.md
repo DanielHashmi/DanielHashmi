@@ -25,7 +25,7 @@ Thinking to transform the world 😂
 
 <p align="start" style="padding-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="28" style="margin:0 10px; filter: invert(100%);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="28" style="filter: invert(100%);" />
+  <img src="https://camo.githubusercontent.com/96f6cc7df15a64d6bc5d7913fcbb15644d840e8d27e83c2cce4a03a5f3f3c912/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d706e672f6c61746573742f66696c65732f6461726b2f6f70656e61692e706e67" alt="ChatGPT" height="28" style="filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="28" style="margin:0 10px; filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="28" style="margin:0 10px; filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="28" style="filter: invert(100%);" />
