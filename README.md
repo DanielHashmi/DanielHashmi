@@ -1,25 +1,22 @@
 ![Welcome Banner](https://github.com/DanielHashmi/DanielHashmi/blob/main/Banner.png?raw=true)
 
-<h1 align="center">Heyyyy!!👋, You Found Me!!</h1>
+<h1 align="center">Bonjour!🫰</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="danielhashmi" /> </p>
 
 
-HI! I'm Daniel, a quiet coder 🧩
+Hi! I'm Daniel, a quiet coder 🧩
 
-- 🔭 Currently studying, thinking & creating
+- 🔭 Currently studying, thinking, and creating.
+- 💬 Proficient in Web Development and Agentic AI.
 
-- 💬 Understand **Web Development, Agentic AI**
+I feel most alive beside my laptop 💻
 
-Feel alive near my laptop 💻
+I love to work on innovative, deeply original ideas 💖🪢
 
-Love 💖 to work on innovations 🪢 and deep unique ideas
-
-Thinking to transform the world 😂
-
-> Peace was never an option 🤷‍♂️
+> daniel: Human | Any = hours_of_reasoning + creative_development + tea_snacks_and_sleep 🎭
 
 🛠️ **Weapons**
 
