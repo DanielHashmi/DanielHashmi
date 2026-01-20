@@ -19,11 +19,11 @@ I love to work on innovative, deeply original ideas 💖🪢
 🛠️ **Weapons**
 
 <p align="start" style="padding-top:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="28" style="margin:0 10px; filter: invert(100%);" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4t6ftsnbGA-H97ii5W0caoAGmvcbydOaEA&s" alt="ChatGPT" height="28" style="filter: invert(100%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="28" style="margin:0 10px; filter: invert(100%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="28" style="margin:0 10px; filter: invert(100%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="28" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" style="margin:0 10px; filter: invert(100%);" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4t6ftsnbGA-H97ii5W0caoAGmvcbydOaEA&s" alt="ChatGPT" height="25" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="25" style="margin:0 10px; filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="25" style="margin:0 10px; filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="25" style="filter: invert(100%);" />
 </p>
 
 ⚡**Superpowers**
