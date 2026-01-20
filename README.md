@@ -26,6 +26,10 @@ I love to work on innovative, deeply original ideas 💖🪢
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="28" style="margin:0 10px; filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="28" style="margin:0 10px; filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="28" style="filter: invert(100%);" />
+  <!-- Superpowers icons -->
+  <img src="https://img.shields.io/badge/Claude%20Code-1e1e1e?style=flat&logo=code&logoColor=white" alt="Claude Code" height="28" style="margin:0 10px; filter: invert(100%);" />
+  <img src="https://img.shields.io/badge/GitHub%20Speckit-1e1e1e?style=flat&logo=github&logoColor=white" alt="GitHub Speckit" height="28" style="margin:0 10px; filter: invert(100%);" />
+  <img src="https://img.shields.io/badge/MCP-1e1e1e?style=flat&logo=appveyor&logoColor=white" alt="MCP" height="28" style="margin:0 10px; filter: invert(100%);" />
 </p>
 
 ---
